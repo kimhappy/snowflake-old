@@ -1,0 +1,3 @@
+[submodule "playground/thirdparty/gwavio"]
+	path = playground/thirdparty/gwavio
+	url = git@bitbucket.org:gaudiolab/gwavio.git
