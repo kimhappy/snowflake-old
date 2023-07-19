@@ -1,9 +1,3 @@
-/*******************************************************************************
- *  Copyright 2023 Gaudio Lab, Inc.
- *  All rights reserved.
- *  http://gaudiolab.com
- ******************************************************************************/
-
 #include <iostream>
 #include <array>
 #include <vector>
